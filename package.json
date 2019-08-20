@@ -1,0 +1,22 @@
+{
+    "name": "@fizzygalacticus/colored-fancy-log",
+    "version": "1.0.0",
+    "description": "fancy-log but with colors!",
+    "main": "index.js",
+    "repository": "https://github.com/FizzyGalacticus/colored-fancy-log",
+    "author": "Dustin L. Dodson",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "colors": "^1.3.3",
+        "fancy-log": "^1.3.3"
+    },
+    "devDependencies": {
+        "eslint": "^6.2.0",
+        "eslint-plugin-prettier": "^3.1.0",
+        "prettier": "^1.18.2"
+    },
+    "eslintIgnore": [
+        "**/node_modules"
+    ]
+}
